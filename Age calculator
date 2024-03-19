@@ -1,0 +1,4 @@
+#Age calculator
+birth_year = (input("aap ka birth year kya hai")
+age = 2024 - birth_year
+print("Your age is:", age)
